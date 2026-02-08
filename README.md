@@ -1,4 +1,30 @@
-## Hi there 👋
+# Hi, I'm Farhan 👋
+I have a background in <strong>Computer Science</strong> and currently work as a <strong>Data Manager</strong> with 5+ years of professional experience. I am passionate about <strong>Web Development</strong> and <strong>Data Analysis</strong>.
+
+## 💻 Tech Stack
+<ul>
+    <li><b>Languages</b>: C++, PHP, Java, Python</li>
+    <li><b>Frameworks</b>: Django, Bootstrap, Wordpress, Tailwind</li>
+    <li><b>Database</b>: MySQL, PostgreSQL</li>
+    <li><b>Data</b>: NumPy, Pandas, Matplotlib, Seaborn, Plotly</li>
+    <li><b>Tools</b>: Git & Github, VSCode, Windows & Ubuntu Server, Docker</li>
+</ul>
+
+## 🚀 Current Focus
+<ul>
+    <li>Transitioning from <b>PHP-based development</b> to a modern <b>Python</b> stack</li>
+    <li>Building <b>data‑driven web applications</b></li>
+    <li>Learning <b>data analysis, automation, and visualization</b></li>
+    <li>Exploring <b>AI‑assisted development workflows</b></li>
+    <li>Building <b>Home Server</b> with mini pc</li>
+</ul>
+
+## 📫 How to reach me
+<ul>
+    <li>Email: <a href="mailto:farhan@pyhan.dev">farhan@pyhan.dev</a></li>
+    <li>Linkedin: <a href="https://www.linkedin.com/in/farohan/">FarohanID</a></li>
+    <li>Blog: <a href="https://pyhan.dev">PyHan</a></li>
+</ul>
 
 <!--
 **FarohanID/FarohanID** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

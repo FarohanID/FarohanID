@@ -3,11 +3,11 @@ I have a background in <strong>Computer Science</strong> and currently work as a
 
 ## 💻 Tech Stack
 <ul>
-    <li><b>Languages</b>: C++, PHP, Java, Python</li>
-    <li><b>Frameworks</b>: Django, Bootstrap, Wordpress, Tailwind</li>
-    <li><b>Database</b>: MySQL, PostgreSQL</li>
+    <li><b>Languages</b>: C++, PHP, Java, Dart, Python</li>
+    <li><b>Framework</b>: Bootstrap, Flutter, Tailwind, Django</li>
+    <li><b>Database</b>: MySQL, PostgreSQL, MongoDB</li>
     <li><b>Data</b>: NumPy, Pandas, Matplotlib, Seaborn, Plotly</li>
-    <li><b>Tools</b>: Git & Github, VSCode, Windows & Ubuntu Server, Docker</li>
+    <li><b>Tools</b>: VSCode, Git, GitHub, Google Colab, Looker Studio, Docker</li>
 </ul>
 
 ## 🚀 Current Focus
@@ -23,7 +23,6 @@ I have a background in <strong>Computer Science</strong> and currently work as a
 <ul>
     <li>Email: <a href="mailto:farhan@pyhan.dev">farhan@pyhan.dev</a></li>
     <li>Linkedin: <a href="https://www.linkedin.com/in/farohan/">FarohanID</a></li>
-    <li>Blog: <a href="https://pyhan.dev">PyHan</a></li>
 </ul>
 
 <!--

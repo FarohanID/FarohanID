@@ -1,5 +1,5 @@
 # Hi, I'm Farhan 👋
-I have a background in <strong>Computer Science</strong> and currently work as a <strong>Data Manager</strong> with 5+ years of professional experience. I am passionate about <strong>Web Development</strong> and <strong>Data Analysis</strong>.
+I have a background in <strong>Computer Science</strong> and currently work as a <strong>Data Manager</strong> with 6+ years of professional experience. I am passionate about <strong>Web Development</strong> and <strong>Data Analysis</strong>.
 
 ## 💻 Tech Stack
 <ul>
